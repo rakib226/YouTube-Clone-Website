@@ -1,0 +1,21 @@
+img{
+    width: 100%;
+
+   
+}
+
+body{
+    font-family: Roboto, Arial;
+    margin: 0;
+    padding-top: 80px;
+    padding-left: 96px;
+   padding-right: 25px;
+   background-color: #F9F9F9;
+   margin-bottom: 50px;
+}
+
+p{
+    font-family:Roboto,Arial;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
